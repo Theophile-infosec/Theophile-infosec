@@ -1,4 +1,4 @@
-# Théophile - InfoSec Portfolio
+# Théophile - Portfolio
 
 ## 📝​ À propos
 
