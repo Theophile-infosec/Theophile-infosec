@@ -9,7 +9,7 @@
 🔐 En préparation pour un Bachelor informatique et cybersécurité 
 <br>
 <br>
-## 🧠 Bases techniques en Cybersécurité
+## ⚙️​ Bases techniques en Cybersécurité
 
 ![Réseau](https://img.shields.io/badge/R%C3%A9seau-00599C?style=flat&logo=cisco&logoColor=white)
 <br>
