@@ -53,6 +53,6 @@
 
 ## 🖥️ Labs et entrainements
 
-- Lab personnel (documentation disponible en dessous ⤵️)
+- Lab personnel GNS3 & VMware (documentation disponible en dessous ⤵️)
 - TryHackMe : Cyber Security 101 ✅​
 - Hack The Box
