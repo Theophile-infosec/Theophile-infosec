@@ -53,6 +53,6 @@
 
 ## 🖥️ Labs et entrainements
 
-- [Lab personnel GNS3 & VMware](Lab-personnel-GNS3-VMware) 👈
+- [Lab personnel GNS3 & VMware](https://github.com/Theophile-infosec/Lab-personnel-GNS3-VMware) 👈
 - TryHackMe : Cyber Security 101 ✅​
 - Hack The Box
