@@ -1,15 +1,27 @@
 # Théophile - Portfolio
 
-## 📝​ À propos
+## 👋​​ À propos
 
-🎓​ Titulaire d'un BTS SIO option SLAM
-
-👨🏻‍💻​ Ancien développeur
-
-🔐 En préparation pour un Bachelor informatique et cybersécurité 
+Admis en Bachelor Informatique & Cybersécurité pour l'année 2026/2027. <br>
+Actuellement en auto-formation intensive en infrastructure, sécurité réseau et laboratoire pratiques.
 <br>
 <br>
-## ⚙️​ Bases techniques en Cybersécurité
+🎯 En recherche d'une alternance en informatique en tant qu'administrateur d'infrastructures et cybersécurité (bac+3).
+<br>
+<br>
+Titulaire d'un BTS SIO option SLAM. <br>
+Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
+<br>
+<br>
+
+## 🖥️ Labs et entrainements
+
+- [Lab GNS3 - Réseau segmenté (DHCP, VLAN, DNS, Pare-feu) ](https://github.com/Theophile-infosec/Lab-personnel-GNS3-VMware) 👈
+- TryHackMe - Cyber Security 101 ✅​
+- Hack The Box - Starting Point (en cours) <br>
+<br>
+
+## ⚙️​ Fondamentaux techniques en cybersécurité
 
 ![Réseau](https://img.shields.io/badge/R%C3%A9seau-00599C?style=flat&logo=cisco&logoColor=white)
 <br>
@@ -51,8 +63,3 @@
 <br>
 <br>
 
-## 🖥️ Labs et entrainements
-
-- [Lab personnel GNS3 & VMware](https://github.com/Theophile-infosec/Lab-personnel-GNS3-VMware) 👈
-- TryHackMe : Cyber Security 101 ✅​
-- Hack The Box
