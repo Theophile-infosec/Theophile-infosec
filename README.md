@@ -45,5 +45,5 @@
 ## 🖥️ Labs et entrainements
 
 - TryHackMe : Cyber Security 101 ✅​
-- Lab personnel (documentation disponible)
+- Lab personnel (documentation disponible en dessous ⤵️)
 - Hack The Box
