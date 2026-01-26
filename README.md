@@ -16,7 +16,7 @@ Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
 
 ## 🖥️ Labs et entrainements
 
-- [Lab GNS3 - Réseau segmenté (DHCP, VLAN, DNS, Pare-feu) ](https://github.com/Theophile-infosec/Lab-personnel-GNS3-VMware) 👈
+- [Lab GNS3 - Réseau segmenté (DHCP, VLAN, DNS, Pare-feu) ](https://github.com/Theophile-infosec/Lab-GNS3) 👈
 - TryHackMe - Cyber Security 101 ✅​
 - Hack The Box - Starting Point (en cours) <br>
 <br>
