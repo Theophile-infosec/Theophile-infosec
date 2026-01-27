@@ -27,15 +27,15 @@ Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
 <br>
 ● Protocoles  
 ● Subnetting & routage inter-VLAN  
-● Analyse de paquets
+● Wireshark : analyse de paquets
 <br>
 <br>
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 <br>
-● Gestion utilisateurs et permissions    
-● Active Directory    
-● PowerShell
+● Utilisateurs et permissions NTFS   
+● PowerShell    
+● AD : OU et GPO
 <br>
 <br>
 
@@ -49,17 +49,17 @@ Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
 
 ![Sécurité](https://img.shields.io/badge/S%C3%A9curit%C3%A9-2E3440?style=flat&logo=metasploit&logoColor=white)
 <br>
-● Configuration nftables   
-● Filtrage stateful & isolation VLAN    
-● Matasploit & reverse shell
+● Configuration Nftables   
+● Filtrage stateful inter-VLAN  
+● Matasploit : exploitation SMB
 <br>
 <br>
 
 ![Web](https://img.shields.io/badge/Web-FF7139?style=flat&logo=html5&logoColor=white)
 <br>
 ● HTTP/HTTPS    
-● Burp Suite    
-● OWASP Top 10
+● OWASP Top 10    
+● Burp Suite : Proxy et Repeater
 <br>
 <br>
 
