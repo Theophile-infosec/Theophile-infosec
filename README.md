@@ -2,7 +2,7 @@
 
 ## 👋​​ À propos
 
-Admis en Bachelor Informatique & Cybersécurité pour l'année 2026/2027. <br>
+Admis en Bachelor Administrateur d’infrastructures & Cybersécurité pour l'année 2026/2027. <br>
 Actuellement en auto-formation intensive en infrastructure, sécurité réseau et laboratoire pratiques.
 <br>
 <br>
