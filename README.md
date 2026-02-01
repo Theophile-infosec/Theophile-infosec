@@ -2,11 +2,9 @@
 
 ## 👋​​ À propos
 
-Admis en Bachelor Administrateur d’infrastructures & Cybersécurité pour l'année 2026/2027. <br>
-Actuellement en auto-formation intensive en infrastructure, sécurité réseau et laboratoire pratiques.
+Actuellement en préparation intensive pour un Bachelor informatique et cybersécurité pour l'année 2026/2027. <br>
 <br>
-<br>
-🎯 En recherche d'une alternance en informatique en tant qu'administrateur d'infrastructures et cybersécurité (bac+3).
+🎯 En recherche d'une alternance en tant qu'administrateur d'infrastructures et cybersécurité (bac+3).
 <br>
 <br>
 Titulaire d'un BTS SIO option SLAM. <br>
