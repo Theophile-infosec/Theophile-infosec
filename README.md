@@ -49,7 +49,7 @@ Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
 <br>
 ● Configuration Nftables   
 ● Filtrage stateful inter-VLAN  
-● Matasploit : exploitation SMB
+● Metasploit : exploitation SMB
 <br>
 <br>
 
