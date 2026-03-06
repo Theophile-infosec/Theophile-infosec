@@ -2,7 +2,7 @@
 
 ## 👋​​ À propos
 
-Actuellement en auto-formation en administration d'infrastructures et cybersécurité <br>
+Actuellement en auto-formation en administration d'infrastructures et cybersécurité. <br>
 <br>
 Titulaire d'un BTS SIO option SLAM. <br>
 Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
