@@ -13,7 +13,6 @@ Ancien développeur, aujourd'hui auto-entrepreneur dans la création de contenu.
 
 - [Lab GNS3 - Infrastructure réseau sécurisée (DHCP, VLAN, DNS, Pare-feu, Durcissement, Pentest) ](https://github.com/Theophile-infosec/Lab-GNS3) 👈
 - TryHackMe - Cyber Security 101 ✅​
-- Hack The Box - Starting Point (en cours) <br>
 <br>
 
 ## ⚙️​ Fondamentaux techniques en cybersécurité
